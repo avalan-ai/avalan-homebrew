@@ -1,4 +1,4 @@
-class Foo < Formula
+class Avalan < Formula
   include Language::Python::Virtualenv
 
   desc "The multi-backend, multi-modal framework for effortless AI agent development, orchestration, and deployment."
